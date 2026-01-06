@@ -4,7 +4,7 @@
 This repository contains an end-to-end data analytics and machine learning project built using a retail sales dataset.  
 The project covers the complete analytics lifecycle — from data extraction and analysis using SQL, visualization using Tableau, to sales forecasting using Python and machine learning.
 
----
+
 
 ##  Business Objectives
 - Analyze historical sales performance and identify key trends
@@ -16,7 +16,7 @@ The project covers the complete analytics lifecycle — from data extraction and
 
 ##  Project Components
 
-### 1️⃣ Sales Analytics (SQL + Tableau)
+###  Sales Analytics (SQL + Tableau)
 **Goal:** Understand sales performance across time, categories, and products.
 
 **Key Work:**
@@ -25,8 +25,8 @@ The project covers the complete analytics lifecycle — from data extraction and
 - Created KPI metrics such as total sales and total orders
 - Built an interactive Tableau dashboard for business users
 
-📁 SQL Queries: `sql/Sales analytics SQL file.sql`  
-📊 Tableau Dashboard: Available in `tableau/README.md`
+ SQL Queries: `sql/Sales analytics SQL file.sql`  
+ Tableau Dashboard: Available in `tableau/README.md`
 
 
 
@@ -39,10 +39,8 @@ The project covers the complete analytics lifecycle — from data extraction and
 - Computed retention percentages using SQL window functions
 - Visualized retention patterns using a Tableau cohort heatmap
 
-📁 SQL Queries: `sql/Cohort Analysis.sql`  
-📊 Tableau Cohort Dashboard: Available in `tableau/README.md`
-
-
+ SQL Queries: `sql/Cohort Analysis.sql`  
+ Tableau Cohort Dashboard: Available in `tableau/README.md`
 
 ### 3️⃣ Sales Forecasting (Machine Learning)
 **Goal:** Predict future sales using historical data.
@@ -54,10 +52,8 @@ The project covers the complete analytics lifecycle — from data extraction and
 - Evaluated model performance using Mean Absolute Error (MAE)
 - Visualized actual vs predicted sales trends
 
-📁 Notebook: `ml/sales_forecasting.ipynb`  
-📁 Dataset: `ml/monthly_sales.csv`
-
-
+ Notebook: `ml/sales_forecasting.ipynb`  
+ Dataset: `ml/monthly_sales.csv`
 
 ##  Tools & Technologies
 - **SQL (PostgreSQL)** – Data extraction, aggregation, cohort analysis
@@ -65,16 +61,12 @@ The project covers the complete analytics lifecycle — from data extraction and
 - **Tableau Public** – Interactive dashboards & cohort heatmaps
 - **GitHub** – Version control and project documentation
 
-
-
 ##  Key Learnings
 - Built professional SQL queries including joins, subqueries, and window functions
 - Learned how to analyze customer retention using cohort analysis
 - Implemented baseline and machine learning models for forecasting
 - Understood the importance of comparing ML models with naive benchmarks
 - Structured a clean, recruiter-friendly GitHub repository
-
-
 
 ##  Tableau Dashboards
 Interactive dashboards can be accessed via Tableau Public links inside:
