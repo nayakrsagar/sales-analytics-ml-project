@@ -16,7 +16,7 @@ The project covers the complete analytics lifecycle — from data extraction and
 
 ##  Project Components
 
-###  Sales Analytics (SQL + Tableau)
+### 1 Sales Analytics (SQL + Tableau)
 **Goal:** Understand sales performance across time, categories, and products.
 
 **Key Work:**
@@ -30,7 +30,7 @@ The project covers the complete analytics lifecycle — from data extraction and
 
 
 
-### 2️⃣ Customer Cohort Analysis (Advanced SQL + Tableau)
+### 3 Customer Cohort Analysis (Advanced SQL + Tableau)
 **Goal:** Analyze customer retention and repeat purchase behavior.
 
 **Key Work:**
@@ -42,7 +42,7 @@ The project covers the complete analytics lifecycle — from data extraction and
  SQL Queries: `sql/Cohort Analysis.sql`  
  Tableau Cohort Dashboard: Available in `tableau/README.md`
 
-### 3️⃣ Sales Forecasting (Machine Learning)
+### 3 Sales Forecasting (Machine Learning)
 **Goal:** Predict future sales using historical data.
 
 **Key Work:**
