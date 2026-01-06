@@ -30,7 +30,7 @@ The project covers the complete analytics lifecycle — from data extraction and
 
 
 
-### 3 Customer Cohort Analysis (Advanced SQL + Tableau)
+### 2 Customer Cohort Analysis (Advanced SQL + Tableau)
 **Goal:** Analyze customer retention and repeat purchase behavior.
 
 **Key Work:**
