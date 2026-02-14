@@ -1,4 +1,4 @@
-# End-to-End Sales Analytics, Cohort Analysis & Sales Forecasting
+# End-to-End Sales Analytics, Cohort Analysis & Sales Forecasting for 1.5Mn+ rows
 
 ##  Project Overview
 This repository contains an end-to-end data analytics and machine learning project built using a retail sales dataset.  
